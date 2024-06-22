@@ -1,2 +1,9 @@
 # TowerDefence
-tower defence game by using java
+Java Game development 
+Tower Defence
+- Animations
+- Gameloop
+- Pathfindings
+- Event Handling
+- Rendering
+
